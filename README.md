@@ -33,6 +33,12 @@ Java is a simple and yet powerful object-oriented programming language and it is
 Learn Object Oriented Concepts for Android: Object-oriented programming (OOP) is a programming language model that allows users to create and organize Java applications on desktops. Writing object-oriented programs involves creating classes, objects and applications which are stand-alone executable programs that use those objects. It simplifies software development and maintenance by providing some concepts. A few aspects of Object-Oriented development, it can help to make the best of our Android projects (Objects and Classes, Inheritance, Interface, Encapsulation, Abstraction and Polymorphism).
 
 ## PROJECT IMPLEMENTATION
+The implementation of the To Do application are as follows:
+
+After downloading the application form the playstore. The app can be found in app drawer as:
+![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/1.png)
+
+
 
 
 
