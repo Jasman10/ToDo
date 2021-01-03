@@ -37,7 +37,7 @@ The implementation of the To Do application are as follows:
 
 After downloading the application form the playstore. The app can be found in app drawer as:
 ![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/1.png)
-
+![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/2.png){:height="700px" width="400px"}
 
 
 
