@@ -1,4 +1,4 @@
-ToDo Application 
+## ToDo Application 
 
 
 ## Overview of the Application
@@ -6,11 +6,11 @@ ToDo Application
 The word “Todo” means to perform a work. The main role of the ToDO is to help us perfrom our daily activities swiftly and efficiently. This upcoming activities and tasks can also be monitored with the help of the application. This helps to fulfill our daily tasks without missing any particular tasks. This application targets a single user which helps to maintain privacy of information and the tasks that are to be done.
 
 ## Benefits of the ToDo application.
-<li>•	This application is mobile based so easy to use.</li>
-<li>•	Helps to keep tracks of the each and every activity.</li>
-<li>•	Increases productivity as every task can be planned according to the date and time can be managed.</li>
-<li>•	Keeps our information private as nothing is written in a hard form.</li>
-<li>•	After finishing any task, the task will be mention as completed so helping improve in memory.</li>
+<li>This application is mobile based so easy to use.</li>
+<li>Helps to keep tracks of the each and every activity.</li>
+<li>Increases productivity as every task can be planned according to the date and time can be managed.</li>
+<li>Keeps our information private as nothing is written in a hard form.</li>
+<li>After finishing any task, the task will be mention as completed so helping improve in memory.</li>
 
 
 ## Application Development Tools
