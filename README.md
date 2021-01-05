@@ -36,9 +36,44 @@ Learn Object Oriented Concepts for Android: Object-oriented programming (OOP) is
 The implementation of the To Do application are as follows:
 
 After downloading the application form the playstore. The app can be found in app drawer as:
+
 ![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/1.png)
-![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/2.png){:height="700px" width="400px"}
-![](https://github.com/Jasman10/ToDo/blob/main/Screenshot/3.png =150x400)
+
+After application is selected the home screen is shown
+
+![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/2.png)
+
+After 3 second the application redirects to the Login page
+
+![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/3.png)
+
+After the username and password is enter press Login button
+
+![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/4.png)
+
+After login is successful To Do panel is shown as below
+
+![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/11.png)
+
+You can include the to do activities there in the enter todo box and can set the date for the activities and click on save todo button.
+
+![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/5.png)
+
+After adding the todo activities, the added items are recorded on the list panel.
+
+![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/6.png)
+
+If you want to edit or delete the todo activities, you can smiply by just clicking the edit icon or delete icon.
+
+![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/7.png)
+
+Any task is completed then tick button is selected to show the task is completed
+
+![test image size](https://github.com/Jasman10/ToDo/blob/main/Screenshot/9.png)
+
+When the logout button is clicked then login page is redirected.
+
+![alt text](https://github.com/Jasman10/ToDo/blob/main/Screenshot/10.png)
 
 
 
